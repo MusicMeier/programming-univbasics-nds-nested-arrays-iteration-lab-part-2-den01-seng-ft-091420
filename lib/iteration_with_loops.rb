@@ -13,7 +13,7 @@ def find_min_in_nested_arrays(src)
     end
     smallest_number_array << lowest_weather_degrees
     row_index += 1 
-    
+   end 
   
   
   # src will be an array of arrays of integers
